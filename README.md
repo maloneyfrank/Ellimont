@@ -1,5 +1,3 @@
 Ellimont
 ========
-Ellimont is going to be something with files or maybe not. Haven't decided. :/
-
-![alt tag](http://25.media.tumblr.com/tumblr_m2ysqsuEbf1rpxyfqo3_500.png)
+Ellimont is an essay writing tool that allows you to add asterikses to words in your document that you want to be replaced with synonyms. The tool will read the file and replace all asterisked words with different words with the same or similar meaning. 
